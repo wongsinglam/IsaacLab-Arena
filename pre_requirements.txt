@@ -1,0 +1,4 @@
+setuptools==65
+wheel==0.45.1
+packaging==23.0
+flatdict==4.0.1
